@@ -2,6 +2,16 @@
 
 The dockerized container for my ****Chatty**** project.
 
+## Preview
+
+### Login
+
+![login](./readme-files/login.png)
+
+### Chat
+
+![chat](./readme-files/chat.png)
+
 ## Setup
 
 ### Clone Project
@@ -31,12 +41,3 @@ or like bellow just create an empty `gitconfig` file in project.
 touch gitconfig
 ```
 
-## Preview
-
-### Login
-
-![login](./readme-files/login.png)
-
-### Chat
-
-![chat](./readme-files/chat.png)
