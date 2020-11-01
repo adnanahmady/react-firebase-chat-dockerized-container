@@ -19,7 +19,7 @@ The dockerized container for my ****Chatty**** project.
 you can clone project and the sub project with bellow code.
 
 ```bash
-git clone --recursive git@gitlab.com:adnanahmady/react-firebase-chat.git
+git clone --recursive git@gitlab.com:adnanahmady/react-firebase-chat-container-dockerized.git
 ```
 
 ### Set Node container git configuration
